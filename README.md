@@ -1,0 +1,3 @@
+# urlshortner
+## Run
+`npm start`
