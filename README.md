@@ -7,3 +7,6 @@ I have used here Nodejs framework.
 `npm start`
 
 ### Screenshort
+
+![Capture](https://user-images.githubusercontent.com/65439761/123948211-d1b13f80-d9be-11eb-97ed-dfded652015a.PNG)
+
