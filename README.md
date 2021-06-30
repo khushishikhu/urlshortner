@@ -3,5 +3,7 @@ This is a URL shortner service project. That converts long URLs into short urls.
 The GET and POST request can be tested from Postman.
 I have used here Nodejs framework.
 
-## Run
+### To start run the following command
 `npm start`
+
+### Screenshort
